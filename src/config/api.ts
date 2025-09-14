@@ -1,6 +1,6 @@
 // API Configuration
 export const API_CONFIG = {
-  BASE_URL: 'http://localhost:3000/bitetrack',
+  BASE_URL: 'http://ubuntu-sandbox.ddnsfree.com/bitetrack',
   TIMEOUT: 10000,
 } as const;
 
